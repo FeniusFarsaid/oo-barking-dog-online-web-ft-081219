@@ -11,5 +11,6 @@ class Dog
   
   def bark(dogs_name)
     puts "woof!"
+  end
     
 end
